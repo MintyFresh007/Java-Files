@@ -72,30 +72,26 @@ Before running this project, make sure you have the following installed:
 
 Click the green Code button, then choose Download ZIP.
 
-### 2. Extract the ZIP File
-
-After downloading, right-click the ZIP file and select Extract All.
-
-### 3. Open the Folder in Visual Studio Code
+### 2. Open the Folder in Visual Studio Code
 
 * Open Visual Studio Code
 * From there, click on File, then Open Folder
 * Then select the extracted project folder
 
-### 4. Confirm the Java Files Are Present
+### 3. Confirm the Java Files Are Present
 
 Make sure these two files are visible:
 
 * TransactionHistory.java
 * PortfolioManager.java
 
-### 5. Run the Program
+### 4. Run the Program
 
 * Open PortfolioManager.java
 * Click the Run button in Visual Studio Code
 * Or right-click inside the file and select "Run Java"
 
-### 6. Use the Menu
+### 5. Use the Menu
 
 The program will display a menu like this:
 
