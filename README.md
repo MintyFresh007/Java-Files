@@ -87,9 +87,9 @@ Make sure these two files are visible:
 
 ### 4. Run the Program
 
-* Open PortfolioManager.java
-* Click the Run button in Visual Studio Code
-* Or right-click inside the file and select "Run Java"
+* Go to the PortfolioManager.java tab
+* Click the Run button located on the top right corner 
+* Alternatively, in Explorer located on the left-hand side, right-click on PortfolioManager.java and select  "Run Java"
 
 ### 5. Use the Menu
 
