@@ -1,6 +1,6 @@
 # Stock Portfolio Application
 
-This is a beginner-friendly Java console application that simulates a basic brokerage account. The program allows a user to deposit cash, withdraw cash, buy stocks, sell stocks, display transaction history, and view the current portfolio.
+This is a simple Java console application that simulates a basic brokerage account. The program allows a user to deposit cash, withdraw cash, buy stocks, sell stocks, display transaction history, and view the current portfolio.
 
 The following skills and concepts were used throughout this project:
 
